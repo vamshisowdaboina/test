@@ -1,0 +1,13 @@
+<server>
+  <id>dev-azure-com-vsowdaboina9972-vsowdaboina9972</id>
+  <configuration>
+    <httpHeaders>
+      <property>
+        <name>Authorization</name>
+        <!-- Treat this auth token like a password. Do not share it with anyone, including Microsoft support. -->
+        <!-- The generated token expires on or before 8/18/2019 -->
+        <value>Basic YXp1cmVBcnRpZmFjdHNBY2Nlc3NUb2tlbjpleUowZVhBaU9pSktWMVFpTENKaGJHY2lPaUpTVXpJMU5pSXNJbmcxZENJNkltOVBkbU42TlUxZk4zQXRTR3BKUzJ4R1dIbzVNM1ZmVmpCYWJ5SjkuZXlKdVlXMWxhV1FpT2lJMFltWmhaR0k0Tnkwd1ptTmpMVFkzTldRdE9ERXhPUzA0TlRaak4yVm1PRGt6TWpFaUxDSnpZM0FpT2lKMmMyOHVaSEp2Y0Y5M2NtbDBaU0IyYzI4dWNHRmphMkZuYVc1blgzZHlhWFJsSWl3aVlYVnBJam9pWldaak5tWTFNbU10Wm1NNE1DMDBaVGRqTFRsa056a3ROVFZsWW1aak1tWXlPRGcxSWl3aWMybGtJam9pWXpNNU4yRXhPVEV0TXpZME5TMDBNbUk1TFRoaFpXUXROMlkzWkdZNU9UbGxOakJpSWl3aWFYTnpJam9pWVhCd0xuWnpkRzlyWlc0dWRtbHpkV0ZzYzNSMVpHbHZMbU52YlNJc0ltRjFaQ0k2SW1Gd2NDNTJjM1J2YTJWdUxuWnBjM1ZoYkhOMGRXUnBieTVqYjIxOGRuTnZPbVE0TlRWak1ESmxMVGd4T1RNdE5EUmtOUzA0WmpZMUxUaGpNMk00TmprNU9HSXlZU0lzSW01aVppSTZNVFUxT0RRd05ESTROeXdpWlhod0lqb3hOVFkyTVRnd09EZzNmUS5keXQ4ekpubzFOdWRzbU1YQWhqZk1jZkJzTktEUVZnZEJ1cWYxSFlodmJGeWVYYjJFb1hXLVhLU2Q5ektsbm41c0RwV2JQYnZrUE1id2JjZ3RGNnhjWFp1UnRCVzE1VnA1VjFTNWQwVFIwcFJBSEJhWjZvc3BfRlJ4YWZaX2RxUkg4TEVTYjA0U3IzM2JEZndBOWY4UlVLeTdsMlRPVmlTQTkxaFRndDFzR0E5RXZiOWZTWEFxX0VMamg4M3dUaFB2X2tLTk1iOXNGMmtlbzZNLVF2cnpHOUFCajN4ZEZ1Qjc4M2tvX0drcVdmNENkbGFkYWxKMFNFNXF2YS1KdkRaWDdDR3RUUDVqOXlRYXpsamRFazVkQzZ3R1o1YndCNVdUbXZINFJSNFRlNUctc1VKR3ZNMXBKVjBGazdwZm45ZjMwUlkycEtzb2prSndLSEFkVUxnS1E=</value>
+      </property>
+    </httpHeaders>
+  </configuration>
+</server>
